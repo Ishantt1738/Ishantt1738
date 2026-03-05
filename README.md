@@ -21,7 +21,6 @@
   - 📈 Trading & Finance  
   - 🤖 Artificial Intelligence & Machine Learning  
   - 💳 FinTech  
-  - 🔗 Blockchain  
 
 ---
 
